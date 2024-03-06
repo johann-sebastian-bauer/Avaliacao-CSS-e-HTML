@@ -1,0 +1,13 @@
+body{
+    color: red;
+text-align: center;
+background-image: url("https://i.pinimg.com/originals/29/14/97/2914979d57cf620dbf74856235f6f704.gif");
+background-repeat: no-repeat;
+background-size: auto;
+
+}
+#imagem{
+    margin-right: 25%;
+    margin-left: 25%;
+    width: 50%;
+}
