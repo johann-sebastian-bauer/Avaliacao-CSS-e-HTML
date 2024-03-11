@@ -25,3 +25,11 @@ overflow: hidden;
    a:link {
     text-decoration: none;
    }
+
+   .botao:hover{
+    color: black;
+    background-color: aliceblue;
+    border-color: azure;
+    padding: 5px;
+    font-family: 'Public Pixel', sans-serif;
+}
