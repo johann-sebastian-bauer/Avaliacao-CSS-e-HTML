@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  border: 0;
   background-image: url(https://i.pinimg.com/originals/ad/1e/2c/ad1e2c0c93696b30a9a6c916cb73d4b7.jpg);
 
   height: 100%;
@@ -11,9 +12,10 @@ body {
   background-size: cover;
 }
 .imagem {
+  width: 20%;
+  height: auto;
+  padding: 0;
   margin: 0;
-  width: 19.5%;
-  height: 275px;
 }
 #div1 {
   width: 100%;
@@ -101,8 +103,9 @@ body {
   height: 250px;
 }
 #sec {
-  padding-left: 25%;
-  padding-right: 25%;
+  padding: 0;
+  margin: 0;
+  display: flex;
 }
 #botao {
   width: 10%;
