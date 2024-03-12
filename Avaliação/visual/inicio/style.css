@@ -1,35 +1,34 @@
-body{
-    color: red;
-text-align: center;
-background-image: url("https://64.media.tumblr.com/d6d0246ca0dffa230f03be2521b3210f/tumblr_obfjz6Bd9f1runoqyo2_r1_540.gif");
-background-repeat: no-repeat;
-background-size: cover;
-width:100vw;
-height:100vh;
-font-family: 'Public Pixel', sans-serif;
-overflow: hidden;
+body {
+  color: red;
+  text-align: center;
+  background-image: url("https://64.media.tumblr.com/d6d0246ca0dffa230f03be2521b3210f/tumblr_obfjz6Bd9f1runoqyo2_r1_540.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  font-family: "Public Pixel", sans-serif;
 }
-#imagem{
-    margin-right: 25%;
-    margin-left: 25%;
-    width: 50%;
+#imagem {
+  margin-right: 25%;
+  margin-left: 25%;
+  width: 50%;
 }
-.botao{
-    color: aliceblue;
-    background-color: black;
-    border-color: azure;
-    padding: 5px;
-    font-family: 'Public Pixel', sans-serif;
+.botao {
+  color: aliceblue;
+  background-color: black;
+  border-color: azure;
+  padding: 5px;
+  font-family: "Public Pixel", sans-serif;
 }
 
-   a:link {
-    text-decoration: none;
-   }
+a:link {
+  text-decoration: none;
+}
 
-   .botao:hover{
-    color: black;
-    background-color: aliceblue;
-    border-color: azure;
-    padding: 5px;
-    font-family: 'Public Pixel', sans-serif;
+.botao:hover {
+  color: black;
+  background-color: aliceblue;
+  border-color: azure;
+  padding: 5px;
+  font-family: "Public Pixel", sans-serif;
 }
